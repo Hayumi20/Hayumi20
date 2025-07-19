@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hayumi Dalia Harief
 
-<!--
-**Hayumi20/Hayumi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Android Developer | AOSP Enthusiast | Open Source Contributor
+- Learning AOSP, Kernel Development, and Git Workflow  
+- Tools I use: Android Studio, Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Connect with Me
+- Email: [yumi@heyyumi.world](mailto:yumi@heyyumi.world)
+- Website: [heyyumi.world](https://heyyumi.world)
+
+---
+
+## My Projects
+Here you'll find my Android & Linux projects as I learn and contribute.  
+Stay tuned for updates!
